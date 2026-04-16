@@ -9,9 +9,9 @@
 - ✨ I am a `Junior` web developer
 - 💻 I love using Software as a solution for every `Problem`.
 - 🥇 I am a `competitive` programmer.
-- 🎓 I’m currently learning [Software Engineering](https://www.uade.edu.ar/facultad-de-ingenieria-y-ciencias-exactas/) at [UADE](https://www.uade.edu.ar/).
+- 🎓 I’m currently learning [Fullstack Developer] at [Pescar & JPMorgan](https://www.pescar.org.ar/).
 - 🌱 Always `learning new things`.
-- 🔍 I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](https://www.linkedin.com/in/vanessa-arevalo-a47464329/).
+- 🔍 I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](https://www.linkedin.com/in/vanessaarevaloabt/).
 
 <br>
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessaalberti&show_icons=true&theme=dark&locale=en&layout=compact" alt="vanessaalberti" /></p>
